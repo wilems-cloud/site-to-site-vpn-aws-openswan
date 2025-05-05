@@ -63,3 +63,12 @@ This project sets up:
 📬 **Author:** Willems Rospide
 🔗 **LinkedIn:** https://www.linkedin.com/in/wilemsrospide/
 📧 **Contact:** willems.engineer@gmail.com
+
+## 🚀 How to Deploy
+
+```bash
+git clonehttps://github.com/wilems-cloud/site-to-site-vpn-aws-openswan.git
+cd site-to-site-vpn
+terraform init
+terraform apply
+```
